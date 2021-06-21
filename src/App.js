@@ -1,5 +1,5 @@
 import React from 'react';
-import Course from './Components'
+import Course from './Course'
 
 const App = () => {
     /* exercises 2.1 to 2.3 */
